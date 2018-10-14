@@ -30,14 +30,14 @@ public class RemoveMin {
         // all other cases
         ListNode first = list;
         while (list != null) {
-            if ((list.next == null) && (list.info == min)) {
+            if ((list.next == null) && (list.info == min)) {                // case 2: list is only one node
                 return null;
             }
-            else if ((list.next.next == null) && (list.info != min)) {
+            else if ((list.next.next == null) && (list.info != min)) {      // case 3: min is last node
                 list.next = null;
                 return first;
             }
-            else if ((list.next.next != null) && (list.next.info == min)){
+            else if ((list.next.next != null) && (list.next.info == min)){  // case 4: min is in the middle
                 list.next = list.next.next;
                 return first;
             }
