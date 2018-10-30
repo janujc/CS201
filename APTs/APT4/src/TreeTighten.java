@@ -1,6 +1,11 @@
 public class TreeTighten {
     public TreeNode tighten(TreeNode t) {
-        // replace with working code
-        return null;
+        if (t.left != null && t.right != null){
+            t.left = tighten(t.left);
+            t.right = tighten(t.right);
+        }
+        else if (t.right != null && t.left == null) t = tighten(t.right);
+        else if (t.right == null && t.left != null) t = tighten(t.left);
+        return t;
     }
 }
