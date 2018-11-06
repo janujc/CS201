@@ -52,4 +52,10 @@ public class ClientsList {
 
         return names;
     }
+
+//    public static void main(String[] args) {
+//        String[] names = {"Joe Smith", "Brown, Sam", "Miller, Judi"};
+//        ClientsList test = new ClientsList();
+//        test.dataCleanup(names);
+//    }
 }
