@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5443ab66-81be-4aab-bcbd-c569ba3708b9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APTs/APT5/src/ClientsList.java" beforeDir="false" afterPath="$PROJECT_DIR$/APTs/APT5/src/ClientsList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,17 +55,17 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="14144" />
+          <entry key="java" value="18364" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="14144" />
+          <entry key="JAVA" value="18364" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="36" />
+          <entry key="java" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -76,54 +74,30 @@
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="36" />
+          <entry key="JAVA" value="53" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/APTs/APT4/src/TreeTighten.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/APTs/APT4/src/TrimTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/APTs/APT4/src/SortedLeaves.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/APTs/APT4/src/LevelLabel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/APTs/APT4/src/Leaves.java">
+        <entry file="file://$PROJECT_DIR$/APTs/APTQuiz2/src/ValidAddresses.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            <state relative-caret-position="308">
+              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/APTs/APT5/src/SyllableSorting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1245">
+              <caret line="89" column="21" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -166,6 +140,12 @@
         <option value="$PROJECT_DIR$/APTs/APT5/src/ClientsList.java" />
         <option value="$PROJECT_DIR$/APTs/APT4/src/LevelLabel.java" />
         <option value="$PROJECT_DIR$/APTs/APT4/src/Leaves.java" />
+        <option value="$PROJECT_DIR$/APTs/APTQuiz2/src/ListNode.java" />
+        <option value="$PROJECT_DIR$/APTs/APTQuiz2/src/PowerList.java" />
+        <option value="$PROJECT_DIR$/APTs/APTQuiz2/src/TreeNode.java" />
+        <option value="$PROJECT_DIR$/APTs/APTQuiz2/src/SumTwoTrees.java" />
+        <option value="$PROJECT_DIR$/APTs/APTQuiz2/src/FullComplete.java" />
+        <option value="$PROJECT_DIR$/APTs/APTQuiz2/src/ValidAddresses.java" />
       </list>
     </option>
   </component>
@@ -204,11 +184,25 @@
             </path>
             <path>
               <item name="CS201" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APT5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS201" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APT5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS201" type="b2602c69:ProjectViewProjectNode" />
               <item name="APTQuiz1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CS201" type="b2602c69:ProjectViewProjectNode" />
               <item name="APTQuiz2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS201" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APTQuiz2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -220,7 +214,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541468861691" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541991263100" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -240,7 +234,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SyllableSorting">
+  <component name="RunManager" selected="Application.ValidAddresses">
     <configuration name="ClientsList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ClientsList" />
       <module name="APT5" />
@@ -255,12 +249,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidAddresses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValidAddresses" />
+      <module name="APTQuiz2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.ClientsList" />
       <item itemvalue="Application.SyllableSorting" />
+      <item itemvalue="Application.ValidAddresses" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidAddresses" />
         <item itemvalue="Application.SyllableSorting" />
         <item itemvalue="Application.ClientsList" />
       </list>
@@ -283,18 +286,18 @@
       <workItem from="1541007603793" duration="8890000" />
       <workItem from="1541454146416" duration="13955000" />
       <workItem from="1541615543153" duration="1326000" />
-      <workItem from="1541979545680" duration="1027000" />
+      <workItem from="1541979545680" duration="11130000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54114000" />
+    <option name="totallyTimeSpent" value="64217000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2653791" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2653791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -303,7 +306,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -312,7 +315,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3299363" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -419,13 +422,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/APTs/APT4/src/AllPaths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/APTs/APT4/src/LevelCount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -437,20 +433,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APTs/APT4/src/HeightLabel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APTs/APT4/src/DepthSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -468,50 +450,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/APTs/APT5/src/ClientsList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APTs/APT5/src/Dirsort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APTs/APT5/src/SyllableSorting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="89" column="21" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APTs/APT5/src/SortByFreqs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/APTs/APT5/src/SortedFreqs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APTs/APTQuiz2/src/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#76#77#0" expanded="true" />
+            <element signature="e#100#101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APTs/APT4/src/Leaves.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -525,6 +488,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/APTs/APT4/src/SortedLeaves.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/APTs/APT4/src/TrimTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -532,10 +502,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/APTs/APT4/src/SortedLeaves.java">
+    <entry file="file://$PROJECT_DIR$/APTs/APTQuiz2/src/ValidAddress.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APTs/APT5/src/ClientsList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="29" column="57" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="29" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APTs/APT5/src/SortByFreqs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="45" column="31" lean-forward="true" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APTs/APT4/src/HeightLabel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="56" lean-forward="true" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APTs/APT4/src/DepthSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APTs/APT5/src/Dirsort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APTs/APTQuiz2/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APTs/APTQuiz2/src/SumTwoTrees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APTs/APT4/src/AllPaths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APTs/APTQuiz2/src/FullComplete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -546,10 +592,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/APTs/APT4/src/Leaves.java">
+    <entry file="file://$PROJECT_DIR$/APTs/APTQuiz2/src/PowerList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        <state relative-caret-position="30">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APTs/APT5/src/SyllableSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
+          <caret line="89" column="21" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APTs/APTQuiz2/src/ValidAddresses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
